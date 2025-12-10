@@ -1,1 +1,3 @@
-yyshi?
+- Task 1 : learn basic logic of next.js
+- Task 2 : set up next.js enviroment locally
+- Task 3 : build a demo project with next.js
